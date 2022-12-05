@@ -1,0 +1,212 @@
+1670052880777	geckodriver	INFO	Listening on 127.0.0.1:53624
+1670052883844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofile1GRXnY"
+1670052884220	Marionette	INFO	Marionette enabled
+1670052884224	Marionette	INFO	Listening on port 53637
+WebDriver BiDi listening on ws://127.0.0.1:53625
+Read port: 53637
+1670052884458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofile1GRXnY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53625/devtools/browser/dd7b411b-4be4-46cd-a70e-8618f016c4f3
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670052898613	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://omnichat.rt.ru/widget/ocWidget/ocwidget.js?rnd=0.96115985606391, line 1: TypeError: e.channelSettings is undefined
+1670052902347	geckodriver	INFO	Listening on 127.0.0.1:53707
+1670052905387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileHKWU05"
+1670052905661	Marionette	INFO	Marionette enabled
+1670052905665	Marionette	INFO	Listening on port 53724
+WebDriver BiDi listening on ws://127.0.0.1:53708
+Read port: 53724
+1670052905853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileHKWU05\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53708/devtools/browser/3faacf8b-35ff-475f-9bd6-91647f6f0278
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670052918962	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://omnichat.rt.ru/widget/ocWidget/ocwidget.js?rnd=0.2061786827948895, line 1: TypeError: e.channelSettings is undefined
+1670052928495	Marionette	INFO	Stopped listening on port 53724
+1670052931343	geckodriver	INFO	Listening on 127.0.0.1:53799
+1670052934345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileF7SKUQ"
+1670052934598	Marionette	INFO	Marionette enabled
+1670052934602	Marionette	INFO	Listening on port 53809
+WebDriver BiDi listening on ws://127.0.0.1:53800
+Read port: 53809
+1670052934783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileF7SKUQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53800/devtools/browser/08ae897f-11e1-4605-a2e1-94503b20d2b5
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670052948615	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670052952011	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://omnichat.rt.ru/widget/ocWidget/ocwidget.js?rnd=0.9755707623046734, line 1: TypeError: e.channelSettings is undefined
+1670052992213	geckodriver	INFO	Listening on 127.0.0.1:53880
+1670052995252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofile5Fpcer"
+1670052995531	Marionette	INFO	Marionette enabled
+1670052995535	Marionette	INFO	Listening on port 53890
+Read port: 53890
+WebDriver BiDi listening on ws://127.0.0.1:53881
+1670052995626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofile5Fpcer\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53881/devtools/browser/2be25e33-7985-4f6b-bf10-2486d7e8ed42
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+JavaScript error: https://omnichat.rt.ru/widget/ocWidget/ocwidget.js?rnd=0.406291807869707, line 1: TypeError: e.channelSettings is undefined
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053022232	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670053064369	geckodriver	INFO	Listening on 127.0.0.1:53977
+1670053067399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileeztP3a"
+1670053067655	Marionette	INFO	Marionette enabled
+1670053067659	Marionette	INFO	Listening on port 53987
+WebDriver BiDi listening on ws://127.0.0.1:53978
+Read port: 53987
+1670053067839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileeztP3a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53978/devtools/browser/d4191b5a-b62e-46dd-8377-c31f293ac7e0
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053081014	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053083540	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://omnichat.rt.ru/widget/ocWidget/ocw1670053086724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileGxruRa"
+1670053086981	Marionette	INFO	Marionette enabled
+1670053086985	Marionette	INFO	Listening on port 54071
+WebDriver BiDi listening on ws://127.0.0.1:54055
+Read port: 54071
+1670053087198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileGxruRa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54055/devtools/browser/c6481d83-1295-41d9-b9fb-803b2ca4e681
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053100520	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670053101581	Marionette	INFO	Stopped listening on port 54071
+1670053106393	geckodriver	INFO	Listening on 127.0.0.1:54142
+1670053109432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofile4Q4HgA"
+1670053109685	Marionette	INFO	Marionette enabled
+1670053109690	Marionette	INFO	Listening on port 54152
+WebDriver BiDi listening on ws://127.0.0.1:54143
+Read port: 54152
+1670053109873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofile4Q4HgA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54143/devtools/browser/f8bea90c-1485-4677-b3ec-094d845b6e08
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053123185	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+1670053132877	Marionette	INFO	Stopped listening on port 54152
+1670053135644	geckodriver	INFO	Listening on 127.0.0.1:54227
+1670053138661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54228" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofile8z6ens"
+1670053138915	Marionette	INFO	Marionette enabled
+1670053138918	Marionette	INFO	Listening on port 54237
+WebDriver BiDi listening on ws://127.0.0.1:54228
+Read port: 54237
+1670053139103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofile8z6ens\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54228/devtools/browser/901e8326-3b0d-476e-b00c-8e9d2950c8d5
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053152587	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+1670053161410	Marionette	INFO	Stopped listening on port 54237
+1670053164141	geckodriver	INFO	Listening on 127.0.0.1:54305
+1670053167164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileLvmQW3"
+1670053167418	Marionette	INFO	Marionette enabled
+1670053167422	Marionette	INFO	Listening on port 54315
+WebDriver BiDi listening on ws://127.0.0.1:54306
+Read port: 54315
+1670053167600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileLvmQW3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54306/devtools/browser/cf9fe4fe-51db-4a85-8200-dd441d025065
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053180733	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://omnichat.rt.ru/widget/ocWidget/ocwidget.js?rnd=0.20430349272799286, line 1: TypeError: e.channelSettings is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+1670053196830	Marionette	INFO	Stopped listening on port 54315
+1670053203616	geckodriver	INFO	Listening on 127.0.0.1:54402
+1670053206621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileuzSLuR"
+1670053206874	Marionette	INFO	Marionette enabled
+1670053206877	Marionette	INFO	Listening on port 54412
+WebDriver BiDi listening on ws://127.0.0.1:54403
+Read port: 54412
+1670053207067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileuzSLuR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54403/devtools/browser/b26c0598-b83b-4bfe-bde4-d2631911220f
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053220240	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?scope=openid&state=Z_J9A_Chbds4WCT71BSE9IhXKfIQ2CdllS6m9IzBRVc.hcGBHo95a0c.account_b2c&response_type=code&client_id=121868035218-rd8lrg4eb24p25g6vo6qnoerkln4b2lp.apps.googleusercontent.com&redirect_uri=https://b2c.passport.rt.ru/social/adapter/google/auth&nonce=EQAHhr6OtIKOWbvsnOpj3Q line 2 > eval line 568 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053264467	geckodriver	INFO	Listening on 127.0.0.1:54489
+1670053267487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54490" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofile7j3nq3"
+1670053267802	Marionette	INFO	Marionette enabled
+1670053267807	Marionette	INFO	Listening on port 54499
+Read port: 54499
+WebDriver BiDi listening on ws://127.0.0.1:54490
+1670053267900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofile7j3nq3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54490/devtools/browser/ba690653-0681-44fd-9c1b-19a393a74e44
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053282293	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+1670053295975	Marionette	INFO	Stopped listening on port 54499
+1670053298751	geckodriver	INFO	Listening on 127.0.0.1:54600
+1670053301795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofilezsxW2q"
+1670053302046	Marionette	INFO	Marionette enabled
+1670053302050	Marionette	INFO	Listening on port 54610
+WebDriver BiDi listening on ws://127.0.0.1:54601
+Read port: 54610
+1670053302235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofilezsxW2q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54601/devtools/browser/aad762d6-a647-4696-9391-ebc7f12af0d5
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053316453	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053319971	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670053320370	Marionette	INFO	Stopped listening on port 54610
+1670053323107	geckodriver	INFO	Listening on 127.0.0.1:54670
+1670053326178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileNupStI"
+1670053326455	Marionette	INFO	Marionette enabled
+1670053326459	Marionette	INFO	Listening on port 54682
+WebDriver BiDi listening on ws://127.0.0.1:54671
+Read port: 54682
+1670053326607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allle\\AppData\\Local\\Temp\\rust_mozprofileNupStI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54671/devtools/browser/73149521-eff4-4ca2-9ce7-2434704ecee9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://b2c.passport.rt.ru."
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.rt.ru/api/fl/js/rostelekom.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670053354188	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670053356217	Marionette	INFO	Stopped listening on port 54682
